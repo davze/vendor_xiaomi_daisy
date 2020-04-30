@@ -3170,6 +3170,7 @@ PRODUCT_PACKAGES += \
     TimeService \
     PowerOffAlarm \
     QtiTelephonyService \
+    dpmserviceapp \
     ims \
     qcrilmsgtunnel \
     QPerformance \
